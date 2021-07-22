@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libutils_modules.a  CMakeFiles/utils_modules.dir/MultiTimer.c.o CMakeFiles/utils_modules.dir/aes_inf.c.o CMakeFiles/utils_modules.dir/base64.c.o CMakeFiles/utils_modules.dir/cJSON.c.o CMakeFiles/utils_modules.dir/crc32.c.o CMakeFiles/utils_modules.dir/log.c.o CMakeFiles/utils_modules.dir/uni_md5.c.o
+/usr/bin/ranlib ../lib/libutils_modules.a

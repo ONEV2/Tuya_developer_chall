@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/switch_demo_non_qrcode.dir/switch_demo_non_qrcode.c.o  -o ../../bin/switch_demo_non_qrcode  ../../lib/liblink_core.a ../../lib/libmiddleware_implementation.a ../../lib/libplatform_port.a ../../lib/libutils_modules.a 

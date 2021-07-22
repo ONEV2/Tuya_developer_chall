@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/liblink_core.a  CMakeFiles/link_core.dir/atop_base.c.o CMakeFiles/link_core.dir/atop_service.c.o CMakeFiles/link_core.dir/mqtt_service.c.o CMakeFiles/link_core.dir/mqtt_bind.c.o CMakeFiles/link_core.dir/tuya_iot.c.o CMakeFiles/link_core.dir/tuya_endpoint.c.o CMakeFiles/link_core.dir/iotdns.c.o CMakeFiles/link_core.dir/matop_service.c.o CMakeFiles/link_core.dir/file_download.c.o CMakeFiles/link_core.dir/tuya_ota.c.o CMakeFiles/link_core.dir/__/libraries/coreJSON/source/core_json.c.o
+/usr/bin/ranlib ../lib/liblink_core.a
