@@ -14,12 +14,12 @@ Tired of using old school electric switches? Too lazy to get-up and turn off the
 4. Supports lots of cstomisation including controlling multiple appliances(check the power rating before connecting) and changing app templates,adding more switches, defining new functions and lot more. Check tuya website for more info- https://developer.tuya.com/en/
 
 ### :camera: Screenshots
-![](https://imgur.com/VsWtqiu)
-![](https://imgur.com/LtdIHZg)
-![](https://imgur.com/do8uR7l)
-![](https://imgur.com/wGugK3y)
-![](https://imgur.com/pguLzTJ)
-![](https://imgur.com/tr1F7Ap)
+<img src="https://imgur.com/LtdIHZg.png" width="600" height="200"/>
+<img src="https://imgur.com/do8uR7l.png" width="200" height="300"/>
+<img src="https://imgur.com/wGugK3y.png"  width="600" height="200"/>
+<img src="https://imgur.com/pguLzTJ.png" width="200" height="300"/>
+<img src="https://imgur.com/tr1F7Ap.png"  width="600" height="200"/>
+
 ### :wrench:Tech Stack
 
 * Raspberry pi 
